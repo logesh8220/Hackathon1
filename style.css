@@ -1,0 +1,118 @@
+/* Background Color */
+
+body{
+background-color: rgb(94, 44, 74);
+}
+
+
+
+/* Data Cards Shadow*/
+
+.pcard {
+    box-shadow: 2px 2px 62px rgb(248, 44, 112);
+}
+
+
+
+/* Navbar */
+
+.headd{
+display:flex;
+justify-content: end;
+justify-content: space-evenly;
+align-items: center;
+margin-top: 30px;
+list-style-type:none;
+font-family: sans-serif;
+box-shadow: 2px 2px 20px rgb(248, 44, 112);
+border-radius: 10px;
+padding: 30px;
+color: rgb(233, 241, 248);
+text-shadow: 2px 2px 22px;
+}
+
+
+
+/* Title */
+
+.makeup {
+    font-family: 'Smooch', cursive;
+    font-size: xx-large;
+    color: rgb(248, 44, 112);
+    text-shadow:1px 1px 10px rgb(20, 5, 10);
+}
+
+
+
+
+/* Products Names */
+
+.names{
+    color: rgb(248, 44, 112);
+}
+
+
+
+
+/* icon */
+
+.icon{
+    color: rgb(248, 44, 112);
+    margin-right: 10px;
+}
+
+
+
+
+/* buttons */
+
+.btn {
+    border: 1px solid rgb(248, 44, 112);
+    color: white;
+}
+.btn:hover {
+    background-color:rgb(248, 44, 112);
+    box-shadow: 2px 2px 20px rgb(248, 44, 112);
+    color: #fff;
+}
+.inputbar {
+    border: 1px solid rgb(248, 44, 112);
+}
+.sbtnn {
+    border: 1px solid #0dcaf0;
+    color: white;
+    background-color:#0dcaf0 ;
+    padding: 4px;
+}
+.btnn{
+    text-decoration: none;
+    color: #fff;
+}
+.btnn:hover{
+    color: #fff;
+}
+.sbtnn:hover {
+    border: 1px solid #0dcaf0;
+    color: white;
+    background-color:#0dcaf0 ;
+    box-shadow: none;
+}
+
+
+
+/* Badge */
+
+.badg{
+    padding: 4px;
+}
+
+
+
+/* Redirect links */
+
+.redirect {
+    text-decoration: none;
+    color: rgb(233, 241, 248);
+    text-shadow: 2px 2px 22px;
+
+}
